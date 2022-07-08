@@ -29,6 +29,5 @@ public class FileUtil <T> {
                         .map(mapper)
                         .collect(Collectors.toList());
         }
-
     }
 }
